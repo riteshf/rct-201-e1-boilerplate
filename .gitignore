@@ -25,4 +25,4 @@ yarn-error.log*
 
 # Ignore for testing check
 cypress
-__tests__
+src/__tests__/
