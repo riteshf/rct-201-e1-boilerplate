@@ -55,21 +55,21 @@
    - Should use `useClock` hook.
 
 2. `List1`:
-   - Should have `initalValues` and `label` as props.
+   - Should have `initialValues` and `label` as props.
    - Show use `useNumberList` hook to get following functionality:
      - list: elements that are present in the list.
      - appendStart: to append element at start of the list.
      - popEnd: to pop elements at the end of the list.
      - clear: to set the list to empty.
-     - reset: to reset the value of list to `initalValues`.
+     - reset: to reset the value of list to `initialValues`.
 3. `List2`:
-   - Should have `initalValues` and `label` as props.
+   - Should have `initialValues` and `label` as props.
    - Show use `useNumberList` hook to get following functionality:
      - list: elements that are present in the list.
      - appendEnd: to append element at end of the list.
      - popStart: to pop elements at the start of the list.
      - clear: to set the list to empty.
-     - reset: to reset the value of list to `initalValues`.
+     - reset: to reset the value of list to `initialValues`.
 
 **Note** - `Make sure you implelement features one by one and deploy the app correctly`
 
@@ -82,7 +82,7 @@
 5. Make sure you use only the given components and dont create new files and folders as chaging component name, structures might result in giving you zero marks
 6. Make sure you use only the given data and dont create new data, as chaging data might result in giving you zero marks
 
-
 ## Just for fun, things you can try (**_OPTIONAL_**)
+
 - Try running `npm run test`
   - might help you to avoid obvious mistakes.
